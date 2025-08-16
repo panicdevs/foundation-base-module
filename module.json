@@ -1,0 +1,10 @@
+{
+    "id": "Base",
+    "name": "Base",
+    "alias": "base",
+    "title": "Base Module",
+    "description": "Base module by PanicDevs",
+    "version": "1.0.0",
+    "priority": 1,
+    "depends_on": ["support"]
+}
