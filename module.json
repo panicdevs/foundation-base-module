@@ -2,9 +2,9 @@
     "id": "Base",
     "name": "Base",
     "alias": "base",
-    "title": "Base Module",
-    "description": "Base module by PanicDevs",
-    "version": "1.0.0",
+    "title": "Foundation Base Module",
+    "description": "Foundation Base Module by PanicDevs",
+    "version": "1.0.2",
     "priority": 1,
     "depends_on": ["support"]
 }
